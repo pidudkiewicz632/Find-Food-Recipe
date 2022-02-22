@@ -1,4 +1,4 @@
-# foodapp
+# Find Food Recipe
 
 This application is designed to save and search recipes by parameters (ingredients, calories, diets, etc.). The project uses the [Spoonacular API](https://spoonacular.com/).
 
@@ -58,6 +58,9 @@ app.listen(port, () => {
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Demo
+https://findfoodrecipe.herokuapp.com/
 
 ### Contact
 Created by pidudkiewicz632 (pidudkiewicz932@gmail.com).
